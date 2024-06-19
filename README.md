@@ -91,11 +91,5 @@ At first glance the files in the repo may look intimidating and overwhelming. To
 * `requirements.txt`  : List of required dependencies required to run `app.py`
 * `extras/`  : Has some miscellaneous images and files used to write this README Document
 
-## Questions ?
 
-Post your queries on the [**Discussions**](https://github.com/gauravreddy08/food-vision/discussions) tab, else contact me : gauravreddy008@gmail.com
-
-
-
-######                                             *Inspired by **Daniel Bourke's** CS329s Lecture*
 
